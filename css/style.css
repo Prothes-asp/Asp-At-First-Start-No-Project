@@ -1,0 +1,23 @@
+body{
+	background-color:white;
+}
+.Banner{
+	height:50px;
+	width:1180px;
+	float:left;
+}
+.Nav{
+	background-color:brown;
+	height:55px;
+	width:1341px;
+	float:left;
+}
+#Sp{
+	color:red;
+}
+.Defi{
+	color:red;
+}
+.def{
+	color:blue;
+}
